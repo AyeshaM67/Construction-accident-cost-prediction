@@ -1,5 +1,5 @@
 # Construction-accident-cost-prediction
-Claasification_regression-based two-tiered machine learning framework
+Claasification_regression-based two-tiered machine learning framework.
 Required Libraries:
 os
 warnings
